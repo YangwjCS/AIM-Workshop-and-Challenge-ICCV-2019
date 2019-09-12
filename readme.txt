@@ -9,7 +9,7 @@ imageio 2.5.0
 cv 2 4.1.0
 
 dataset download
-train dataset£º
+train dataset£ºhttps://pan.baidu.com/s/1iB4N93L_SFRAoEHEm4pIOQ
 test  dataset£ºhttps://pan.baidu.com/s/1POpip1m0JDiQU4wodoCnMg
 
 ÑµÁ·´úÂë:
